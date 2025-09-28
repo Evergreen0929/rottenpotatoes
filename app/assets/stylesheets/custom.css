@@ -1,0 +1,38 @@
+/* app/assets/stylesheets/custom.css */
+.main-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+}
+
+#movies {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#movies th, #movies td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+#movies th {
+  background-color: #337ab7;
+  color: white;
+}
+
+#movies th a {
+  color: white;
+  text-decoration: none;
+}
+
+.hilite {
+  background-color: #f0ad4e !important;
+}
+
+/* Non-color cue for sorted column */
+.hilite a::after {
+  content: ' ▼';
+}
