@@ -17,9 +17,6 @@ Things you may want to cover:
 
 
 
-\## Heroku App
-
-
-
-My RottenPotatoes application is deployed on Heroku: \[https://radiant-sands-26917-90fa6b7d514c.herokuapp.com/](https://radiant-sands-26917-90fa6b7d514c.herokuapp.com/)
+## Heroku App
+My RottenPotatoes application is deployed on Heroku: [https://radiant-sands-26917-90fa6b7d514c.herokuapp.com/](https://radiant-sands-26917-90fa6b7d514c.herokuapp.com/)
 
